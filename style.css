@@ -1,0 +1,344 @@
+
+dy
+{
+  width: 1024px;
+    height: 2812px;
+      background-color : var(--write);
+        
+          
+          }
+
+          .BG
+          {
+            object-fit: contain;
+            }
+
+            .P
+            {
+              
+              }
+
+              .para
+              {
+                font-family:STHeitiTC;
+                  font-size: 16px;
+                    font-weight: 500;
+                      font-style: normal;
+                        font-stretch: normal;
+                          line-height: normal;
+                            letter-spacing: normal;
+                              color: #2f3c4c;
+                                
+                                }
+
+                                .sent
+                                {
+                                  font-family:STHeitiTC;
+                                    font-size: 16px;
+                                      font-weight: 500;
+                                        font-style: normal;
+                                          font-stretch: normal;
+                                            line-height: normal;
+                                              letter-spacing: normal;
+                                                color: #2f3c4c;
+                                                  
+                                                  }
+
+                                                  .head
+                                                  {
+                                                    font-family:STHeitiTC;
+                                                      font-size: 24px;
+                                                        font-weight: 500;
+                                                          font-style: normal;
+                                                            font-stretch: normal;
+                                                              line-height: normal;
+                                                                letter-spacing: normal;
+                                                                  color: #2f3c4c;
+                                                                    
+                                                                    }
+
+
+                                                                    .center
+                                                                    {
+                                                                      text-align: center;
+                                                                      }
+
+
+
+                                                                      .BU
+                                                                      {
+                                                                        width: 212px;
+                                                                          height: 36px;
+                                                                            border-radius: 19px;
+                                                                              background-color: #ffffff;
+                                                                                box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.14);
+                                                                                }
+
+                                                                                #BG1
+                                                                                {
+                                                                                  width: 1024px;
+                                                                                    height: 509px;
+                                                                                      
+                                                                                      }
+
+                                                                                      #S1
+                                                                                      { position:absolute;
+                                                                                        top:15px;
+                                                                                          left:37px; 
+                                                                                          }
+
+                                                                                          #head_firstBig
+                                                                                          {
+                                                                                            font-size: 46px;
+                                                                                              position:absolute;
+                                                                                                top:130px;
+                                                                                                  left:289px; 
+                                                                                                  }
+
+                                                                                                  #P1_canScale
+                                                                                                  {
+                                                                                                    width: 680px;
+                                                                                                      height: 320px;
+                                                                                                        object-fit: contain;
+                                                                                                          position:absolute;
+                                                                                                            top:314px;
+                                                                                                              left:172px; 
+                                                                                                                
+                                                                                                                }
+
+                                                                                                                #scaleOpen
+                                                                                                                {
+                                                                                                                  width: 66px;
+                                                                                                                    height: 66px;
+                                                                                                                      object-fit: contain;
+                                                                                                                        position:absolute;
+                                                                                                                          top:441px;
+                                                                                                                            left:479px;
+                                                                                                                            }
+
+                                                                                                                            #H2
+                                                                                                                            {
+                                                                                                                              position:absolute;
+                                                                                                                                top:732px;
+                                                                                                                                  left:351.5px;
+                                                                                                                                  }
+
+                                                                                                                                  #D1
+                                                                                                                                  {
+                                                                                                                                    width: 367.4px;
+                                                                                                                                      height: 192px;
+                                                                                                                                        position:absolute;
+                                                                                                                                          top:927px;
+                                                                                                                                            left:42px;
+                                                                                                                                            }
+
+                                                                                                                                            #P2
+                                                                                                                                            {
+                                                                                                                                              width: 524px;
+                                                                                                                                                height: 282px;
+                                                                                                                                                  object-fit: contain;
+                                                                                                                                                    position:absolute;
+                                                                                                                                                      top:856px;
+                                                                                                                                                        left:455px;
+                                                                                                                                                        }
+
+                                                                                                                                                        #BG2
+                                                                                                                                                        {
+                                                                                                                                                          width: 888px;
+                                                                                                                                                            height: 509px;
+                                                                                                                                                              border-radius: 14px;
+                                                                                                                                                                background-image: linear-gradient(to bottom, #fed39a, #febba2);
+                                                                                                                                                                  background-image: linear-gradient(to bottom, var(--light-peach), var(--pale-salmon));
+                                                                                                                                                                    position:absolute;
+                                                                                                                                                                      top:1326px;
+                                                                                                                                                                        left:68px; 
+                                                                                                                                                                        }
+
+                                                                                                                                                                        #H3
+                                                                                                                                                                        {
+                                                                                                                                                                          position:absolute;
+                                                                                                                                                                            top:1369px;
+                                                                                                                                                                              left:424px; 
+                                                                                                                                                                              }
+
+                                                                                                                                                                              #P3
+                                                                                                                                                                              {
+                                                                                                                                                                                position:absolute;
+                                                                                                                                                                                  top:1452px;
+                                                                                                                                                                                    left:162px; 
+                                                                                                                                                                                      width: 740.6px;
+                                                                                                                                                                                        height: 48px;
+                                                                                                                                                                                        }
+
+                                                                                                                                                                                        #Pa
+                                                                                                                                                                                        {
+                                                                                                                                                                                          width: 212px;
+                                                                                                                                                                                            height: 184px;
+                                                                                                                                                                                              border-radius: 6px;
+                                                                                                                                                                                                
+                                                                                                                                                                                                  position:absolute;
+                                                                                                                                                                                                    top:1562px;
+                                                                                                                                                                                                      left:-101px;
+                                                                                                                                                                                                      }
+                                                                                                                                                                                                      #Pb
+                                                                                                                                                                                                      {
+                                                                                                                                                                                                        width: 212px;
+                                                                                                                                                                                                          height: 184px;
+                                                                                                                                                                                                            border-radius: 6px;
+                                                                                                                                                                                                              
+                                                                                                                                                                                                                position:absolute;
+                                                                                                                                                                                                                  top:1562px;
+                                                                                                                                                                                                                    left:127px; 
+                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                    #Pc
+                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                      width: 212px;
+                                                                                                                                                                                                                        height: 184px;
+                                                                                                                                                                                                                          border-radius: 6px;
+                                                                                                                                                                                                                            
+                                                                                                                                                                                                                              position:absolute;
+                                                                                                                                                                                                                                top:1562px;
+                                                                                                                                                                                                                                  left:355px;
+                                                                                                                                                                                                                                  }
+                                                                                                                                                                                                                                  #Pd
+                                                                                                                                                                                                                                  {
+                                                                                                                                                                                                                                    width: 318px;
+                                                                                                                                                                                                                                      height: 184px;
+                                                                                                                                                                                                                                        border-radius: 6px;
+                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                            position:absolute;
+                                                                                                                                                                                                                                              top:1562px;
+                                                                                                                                                                                                                                                left:583px;
+                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                #Pe
+                                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                                  width: 212px;
+                                                                                                                                                                                                                                                    height: 184px;
+                                                                                                                                                                                                                                                      border-radius: 6px;
+                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                          position:absolute;
+                                                                                                                                                                                                                                                            top:1562px;
+                                                                                                                                                                                                                                                              left:917px;
+                                                                                                                                                                                                                                                              }
+
+                                                                                                                                                                                                                                                              #P4
+                                                                                                                                                                                                                                                              {
+                                                                                                                                                                                                                                                                width: 701px;
+                                                                                                                                                                                                                                                                  height: 186px;
+                                                                                                                                                                                                                                                                    object-fit: contain;
+                                                                                                                                                                                                                                                                      position:absolute;
+                                                                                                                                                                                                                                                                        top:1952px;
+                                                                                                                                                                                                                                                                          left:323px;
+                                                                                                                                                                                                                                                                          }
+
+                                                                                                                                                                                                                                                                          #H4
+                                                                                                                                                                                                                                                                          {
+                                                                                                                                                                                                                                                                            position:absolute;
+                                                                                                                                                                                                                                                                              top:2203px;
+                                                                                                                                                                                                                                                                                left:398.5px;
+                                                                                                                                                                                                                                                                                }
+
+                                                                                                                                                                                                                                                                                #P5
+                                                                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                                                                  width: 740.6px;
+                                                                                                                                                                                                                                                                                    height: 48px;
+                                                                                                                                                                                                                                                                                      position:absolute;
+                                                                                                                                                                                                                                                                                        top:2281px;
+                                                                                                                                                                                                                                                                                          left:142px;
+                                                                                                                                                                                                                                                                                          }
+
+                                                                                                                                                                                                                                                                                          #S2
+                                                                                                                                                                                                                                                                                          {
+                                                                                                                                                                                                                                                                                            position:absolute;
+                                                                                                                                                                                                                                                                                              top:2639px;
+                                                                                                                                                                                                                                                                                                left:464px;
+                                                                                                                                                                                                                                                                                                }
+
+                                                                                                                                                                                                                                                                                                #S3
+                                                                                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                                                                                  position:absolute;
+                                                                                                                                                                                                                                                                                                    top:2690px;
+                                                                                                                                                                                                                                                                                                      left:394.5px;
+                                                                                                                                                                                                                                                                                                      }
+
+                                                                                                                                                                                                                                                                                                      #BC
+                                                                                                                                                                                                                                                                                                      {
+                                                                                                                                                                                                                                                                                                        width: 1024px;
+                                                                                                                                                                                                                                                                                                          height: 382px;
+                                                                                                                                                                                                                                                                                                            background-color: #ffe687;
+                                                                                                                                                                                                                                                                                                              position:absolute;
+                                                                                                                                                                                                                                                                                                                top:2138px;
+                                                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                                  }
+
+                                                                                                                                                                                                                                                                                                                  #EM
+                                                                                                                                                                                                                                                                                                                  {
+                                                                                                                                                                                                                                                                                                                    width: 491px;
+                                                                                                                                                                                                                                                                                                                      height: 48px;
+                                                                                                                                                                                                                                                                                                                        border-radius: 24px;
+                                                                                                                                                                                                                                                                                                                          background-color: #ffffff;
+                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                              box-shadow: inset 0 0 15px 0 rgba(0, 0, 0, 0.07);
+                                                                                                                                                                                                                                                                                                                                position:absolute;
+                                                                                                                                                                                                                                                                                                                                  top:2394px;
+                                                                                                                                                                                                                                                                                                                                    left:267px;
+                                                                                                                                                                                                                                                                                                                                    }
+
+                                                                                                                                                                                                                                                                                                                                    #INEM
+                                                                                                                                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                                                                                                                                      opacity: 0.51;
+                                                                                                                                                                                                                                                                                                                                        position:absolute;
+                                                                                                                                                                                                                                                                                                                                          top:2410px;
+                                                                                                                                                                                                                                                                                                                                            left:302px;
+                                                                                                                                                                                                                                                                                                                                            }
+
+                                                                                                                                                                                                                                                                                                                                            #bu1
+                                                                                                                                                                                                                                                                                                                                            {
+                                                                                                                                                                                                                                                                                                                                              position:absolute;
+                                                                                                                                                                                                                                                                                                                                                top:229px;
+                                                                                                                                                                                                                                                                                                                                                  left:406px;
+                                                                                                                                                                                                                                                                                                                                                  }
+
+                                                                                                                                                                                                                                                                                                                                                  #bu2
+                                                                                                                                                                                                                                                                                                                                                  {
+                                                                                                                                                                                                                                                                                                                                                    position:absolute;
+                                                                                                                                                                                                                                                                                                                                                      top:1817px;
+                                                                                                                                                                                                                                                                                                                                                        left:406px;
+                                                                                                                                                                                                                                                                                                                                                        }
+
+                                                                                                                                                                                                                                                                                                                                                        #bu1Name
+                                                                                                                                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                                                                                                                                          position:absolute;
+                                                                                                                                                                                                                                                                                                                                                            top:239px;
+                                                                                                                                                                                                                                                                                                                                                              left:452px;
+                                                                                                                                                                                                                                                                                                                                                              }
+
+                                                                                                                                                                                                                                                                                                                                                              #bu2Name
+                                                                                                                                                                                                                                                                                                                                                              {
+                                                                                                                                                                                                                                                                                                                                                                position:absolute;
+                                                                                                                                                                                                                                                                                                                                                                  top:1827px;
+                                                                                                                                                                                                                                                                                                                                                                    left:452px;
+                                                                                                                                                                                                                                                                                                                                                                    }
+
+                                                                                                                                                                                                                                                                                                                                                                    #OUBUPC
+                                                                                                                                                                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                                                                                                                                                                      position:absolute;
+                                                                                                                                                                                                                                                                                                                                                                        top:2399px;
+                                                                                                                                                                                                                                                                                                                                                                          left:689px;
+                                                                                                                                                                                                                                                                                                                                                                            width: 64px;
+                                                                                                                                                                                                                                                                                                                                                                              height: 38px;
+                                                                                                                                                                                                                                                                                                                                                                                border-radius: 22.8px;
+                                                                                                                                                                                                                                                                                                                                                                                  background-color: #ffd22e;
+                                                                                                                                                                                                                                                                                                                                                                                  }
+
+                                                                                                                                                                                                                                                                                                                                                                                  #BUPC
+                                                                                                                                                                                                                                                                                                                                                                                  {
+                                                                                                                                                                                                                                                                                                                                                                                    position:absolute;
+                                                                                                                                                                                                                                                                                                                                                                                      top:2408px;
+                                                                                                                                                                                                                                                                                                                                                                                        left:713px;
+                                                                                                                                                                                                                                                                                                                                                                                        }
+
+
+
+
+
